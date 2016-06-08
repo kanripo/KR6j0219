@@ -1,22 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:28:11.262382
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:36
 #+TITLE: 佛頂放無垢光明入普門觀察一切如來心陀羅尼經
 #+PROPERTY: CBETA_ID T19n1025
 #+PROPERTY: ID KR6j0219
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 19, No. 1025
 #+PROPERTY: VOL 19
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0219_T_001-0721c> 
 #+PROPERTY: JUAN 1
 ¶
-No.1025¶
-
- 佛頂放無垢光明入普門觀察一¶
+No. 1025¶
+佛頂放無垢光明入普門觀察一¶
 切如來心陀羅尼經卷上¶
 ¶
-西天北印度烏填曩國帝釋宮¶
-寺三藏傳法大師賜紫沙門臣¶
+西天北印度烏填曩國帝釋宮寺三藏傳法大師賜紫沙門臣¶
 施護奉　詔譯¶
 
 如是我聞。一時世尊。在覩史天宮。與大菩薩¶
@@ -94,7 +92,7 @@ No.1025¶
 光照告已。其光還復到於佛所。遶佛三匝還¶
 從口入。是時世尊告帝釋天主言。諦聽天主。¶
 彼摩尼藏無垢天子。七日之後決定命終。當¶
-墮地獄受大苦惱。痛楚無量甚大怖畏。出地¶
+墮地獄受大菩惱。痛楚無量甚大怖畏。出地¶
 獄已復生人間。而於波羅奈城竹匠之家。生¶
 溷廁中為猪面女鬼恒食糞尿。彼溷廁中復¶
 有百千俱胝蛆蟲。常以三時𠯗食女鬼。身肉¶
